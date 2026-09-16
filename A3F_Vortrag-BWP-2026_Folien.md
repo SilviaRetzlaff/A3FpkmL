@@ -145,7 +145,7 @@ Wenn–dann–weil: van den Akker 1999 · Euler 2014
 **A · Fragebogen** → Praxis-Profil
 
 <!-- style="font-size: 0.85em; opacity: 0.8" -->
-pro Praktik: Phase oder Nein · Ergebnis: das Muster (Performanz)
+pro Praktik: Phase oder Nein · Ergebnis: das Muster 
 
 **B · Interview mit Visualisierung** → Profil-Fragen
 
