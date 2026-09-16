@@ -150,7 +150,7 @@ pro Praktik: Phase oder Nein · Ergebnis: das Muster
 **B · Interview mit Visualisierung** → Profil-Fragen
 
 <!-- style="font-size: 0.85em; opacity: 0.8" -->
-das eigene Profil vor Augen: Wozu? Passt es? Bewusst oder unbewusst nicht adoptiert? · Ergebnis: die Entscheidungen dahinter (Kompetenz)
+das eigene Profil vor Augen: Wozu? Passt es? Bewusst oder unbewusst nicht adoptiert? · Ergebnis: die Entscheidungen dahinter
 
 <!-- style="font-size: 0.85em; opacity: 0.7" -->
 Wer: Studierende am Institut · ggf. darüber hinaus (offen) · Ziel: Gestaltungshypothesen empirisch informieren
